@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Husite",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Bohemia",
 		"movement": 2,
-		"strength": 90,
+		"strength": 30,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 120,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Drill I"],
 	}
 ]
