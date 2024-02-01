@@ -28,7 +28,9 @@
 
 		"outerColor": [38,98,255],
 		"innerColor": [234,0,0],
-		"unique": ["Cannot build [Military] units","May buy [Military] units with [Faith] [in all cities]", "When defeating a [Wounded] unit, earn Gold and recruit it"]
+		"unique": ["Cannot build [Military] units","May buy [Military] units with [Faith] [in all cities]",
+			"When defeating a [Wounded] unit, earn Gold and recruit it",
+			"[2] free [Spearman] units appear", "[2] free [Warrior] units appear", "[2] free [Archer] units appear"]
 		"cities": ["Praha","Brno","Plzeň","Olomouc","Pardubice","Jihlava","Ostrava","Hradec Králové",
 			"České Budějovice","Poděbrady","Čáslav","Beroun","Chrudim","Mladá Boleslav","Přerov","Znojmo","Děčín","Kutná Hora",]
 	}
