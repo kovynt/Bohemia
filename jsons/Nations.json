@@ -1,25 +1,24 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Bohemia",
+		"leaderName": "Charles IV",
+		"adjective": ["czech"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Embrace your empire, oh Great King of Bohemia! You were responsible for the Kingdom of Bohemia's Golden Age! You favored peace over war and made sure your people were safe. You focused on the economic, cultural and intellectual development of Bohemia. You founded the Charles University and encouraged early humanists and you were a great builder, being responsible for some of Bohemia's most famous landmarks such as the Charles Bridge and Karlstein Castle. You were the first Bohemian King to become Holy Roman Emperor, a great achievement indeed. You are regarded as the father of the country in the Czech Republic and even the greatest Czech of all time by some!",
+		"startIntroPart2": "You need to rise up, as your people ask you to do this! Oh great King and Emperor, will you strengthen Bohemia in a cultural, intellectual and economic way? Can you expand your empire or keep the peace if necessary? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Prepare to die!",
+		"attacked": "Whatever you want, we won't give it easy!",
+		"defeated": "At least my people will remember me as a great leader. You, on the other hand, will be remembered as a vicious barbarian.",
+		"introduction": "Welcome to the prosperous Kingdom of Bohemia. Before you stands the King, ready to listen to what you have to say.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hello",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "You again?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
@@ -27,12 +26,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [38,98,255],
+		"innerColor": [234,0,0],
+		"unique": ["Cannot build [Military] units","May buy [Military] units with [Faith] [in all cities]", "When defeating a [Wounded] unit, earn Gold and recruit it"]
+		"cities": ["Praha","Brno","Plzeň","Olomouc","Pardubice","Jihlava","Ostrava","Hradec Králové",
+			"České Budějovice","Poděbrady","Čáslav","Beroun","Chrudim","Mladá Boleslav","Přerov","Znojmo","Děčín","Kutná Hora",]
 	}
 ]
